@@ -170,3 +170,28 @@
     </td>
   </tr>
 </table>
+
+## 📌 Summary
+<table>
+    <tr>
+        <th>기간</th>
+        <td>2023.01.02 ~ 2023.03.01</td>
+    </tr>
+    <tr>
+        <th>Android 배포</th>
+        <td><a href="https://play.google.com/store/apps/details?id=com.garamgaebi.garamgaebi">Android</a></td>
+    </tr>
+    <tr>
+        <th>iOS 배포</th>
+        <td><a href="https://apps.apple.com/kr/app/%EA%B0%80%EB%9E%8C%EA%B0%9C%EB%B9%84/id6446202566">iOS</a></td>
+    </tr>
+    <tr>
+        <th>디자인</th>
+        <td><a href="https://www.figma.com/file/fqJE4zybsIX49pXQjnjE0l/Untitled?type=design&node-id=0%3A1&mode=design&t=WkQ3bi3RakkSZ7M2-1">Figma</a></td>
+    </tr>
+</table>
+
+## 📌 Background
+
+
+## 📌 Introduction
