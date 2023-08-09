@@ -195,3 +195,14 @@
 
 
 ## 📌 Introduction
+### 온보딩 화면
+<img src="https://github.com/LGYPJ/.github/assets/97885933/d7c8f5c9-085c-4c3d-9f1c-2b1f68b16b5c" width="120px" height="15%"/>
+
+### 홈 화면
+<img src="https://github.com/LGYPJ/.github/assets/97885933/6b23d3d2-aa01-4ba2-9cf3-8fc23f7f7676" width="120px" height="15%"/>
+
+### 모아보기 화면
+<img src="https://github.com/LGYPJ/.github/assets/97885933/823434b7-8c9e-4542-9e87-12e00f2eca53" width="120px" height="15%"/>
+
+### 내 프로필 화면
+<img src="https://github.com/LGYPJ/.github/assets/97885933/6d0a9bb8-ab48-4bed-b274-5e856d3c2012" width="120px" height="15%"/>
